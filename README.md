@@ -2,21 +2,31 @@
 
 ## Overview and Origin
 
-* Name of company: Xilis
+* Name of company: BioCam
 
 * When was the company incorporated? 2019
 
-* Who are the founders of the company?
+* Who are the founders of the company? Maciej Wysocki, Marek Langner, Robert Stachurski
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? 
+> The last World Cancer Statistics showed that colorectal cancer has become the deadliest cancer in men aged 20–49 years.
+> More than 71% of all cancers of the digestive system are diagnosed in the last 2 stages of development, when treatment is no longer possible and that simple means a death sentence. This all leads to our mission behind the BioCam.
 
 * How is the company funded? How much funding have they received?
+> In 2020, the LT Capital fund invested in us in the amount of €250,000 in the pre-seed round.
+> In 2021, we had a small bridge round with a private investor for €100,000 and with a well-known entrepreneur and business angel, Dawid Urban, who invested €440,000 in us. Dawid Urban’s investment was used as our own contribution to the implementation of the grant received from the National Center for Research and Development for adapting our technology to completely remote research, including in pandemic conditions. The grant is worth over €1.2 million.
+Just a few months ago, we received €440,000 in a seed round from Level2 Ventures.
 
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
+> Our ultimate ambition is to deliver a new endoscopic capsule-based system for gastrointestinal observation and diagnosis of abnormalities and diseases that is safe and noninvasive, capable of registering/capturing the whole gastrointestinal tract, that can be easily used by patients at home.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
+> Our business model is technology licensing to corporations from the medical devices, pharmaceutical, consumer electronics, and insurance industry. This allows us to use their sales, distribution and marketing channels as well as brand awareness.
+
+However, we do not close ourselves to large distribution contracts with a network of clinics and medical facilities.
+>
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -24,7 +34,7 @@
 
 ## Landscape
 
-* What field is the company in?
+* What field is the company in? BioTech, Medical Devices, Software, Diagnostics
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
@@ -33,6 +43,7 @@
 ## Results
 
 * What has been the business impact of this company so far?
+Hard to say financially, but in terms of product impact, they already have something that works.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
@@ -50,8 +61,12 @@
 
 ## Addendum
 ### Sources
+* BioCam Main Site [biocam.ai](https://www.biocam.ai/)
 
-* [Xilis Main Site](https://xilis.com/)
-* American Society of Clinical Oncology: [Micro-organospheres: An automated patient-derived model platform for rapid drug screening of breast cancer.](https://meetings.asco.org/abstracts-presentations/200963)
-* The University of Texas MD Anderson Cancer Center: [MD Anderson and Xilis announce strategic collaboration to advance novel technology and accelerate therapeutic development](https://www.mdanderson.org/newsroom/collaboration-advance-technology-cancer-therapies-md-anderson-xilis.h00-159616278.html)
-* Genetic Engineering & Biotechnology News: [Xilis’ Precision Oncology Platform Guides Treatment and Drug Discovery](https://www.genengnews.com/gen-edge/xilis-precision-oncology-platform-guides-treatment-and-drug-discovery/)
+* AIN Capital [Polish medtech BioCam secures €440k to develop an AI-based endoscopic capsule](https://ain.capital/2023/05/11/biocam-secures-440k/)
+
+* AIN Capital [Startup of the Day: Polish medtech BioCam](https://ain.capital/2023/08/01/startup-of-the-day-polish-medtech-biocam/)
+
+* Google [30 AI startups changing the future of healthcare](https://blog.google/outreach-initiatives/entrepreneurs/30-ai-startups-changing-the-future-of-healthcare/)
+
+* Crunchbase [BioCam: Capsule Endoscopy](https://www.crunchbase.com/organization/biocam)
