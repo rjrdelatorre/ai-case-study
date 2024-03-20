@@ -38,6 +38,7 @@ However, we do not close ourselves to large distribution contracts with a networ
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
+
 * What are the other major companies in this field?
 
 ## Results
@@ -70,3 +71,10 @@ Hard to say financially, but in terms of product impact, they already have somet
 * Google [30 AI startups changing the future of healthcare](https://blog.google/outreach-initiatives/entrepreneurs/30-ai-startups-changing-the-future-of-healthcare/)
 
 * Crunchbase [BioCam: Capsule Endoscopy](https://www.crunchbase.com/organization/biocam)
+
+* Clinical Trials Arena [The top five global biotech trends of the last five years](https://www.clinicaltrialsarena.com/sponsored/the-top-five-global-biotech-trends-of-the-last-five-years/)
+
+* McKinsey & Co. [What early-stage investing reveals about biotech innovation](https://www.mckinsey.com/industries/life-sciences/our-insights/what-early-stage-investing-reveals-about-biotech-innovation)
+
+* OFFICE of the DIRECTOR of NATIONAL INTELLIGENCE [The Future of Biotech](https://www.dni.gov/files/images/globalTrends/GT2040/NIC-2021-02494--Future-of-Biotech--Unsourced--14May21.pdf)
+
