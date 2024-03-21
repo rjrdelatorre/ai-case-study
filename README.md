@@ -47,22 +47,39 @@ BioCam wants to use their capsule endoscopy technology and software platform to 
 BioCam wants their products to be used by doctors and veterinarians to replace or supplement traditional GI observation and imaging techniques (e.g. colonoscopy devices). They plan on getting their products into the hands of physicians and veterinarians through licensing agreements with strategic partners, then leveraging the distribution and marketing infrastructure of those partners. 
 
 > Our business model is technology licensing to corporations from the medical devices, pharmaceutical, consumer electronics, and insurance industry. This allows us to use their sales, distribution and marketing channels as well as brand awareness.
-
 > However, we do not close ourselves to large distribution contracts with a network of clinics and medical facilities.
 
-*  Maciej Wysocki - [source article](https://ain.capital/2023/08/01/startup-of-the-day-polish-medtech-biocam/)
+*Maciej Wysocki - [source article](https://ain.capital/2023/08/01/startup-of-the-day-polish-medtech-biocam/)
 
 ### Market Size for Traditional Colonoscopy Tools and Capsule Endoscopy
 
 BioCam will be a competitor in both the capsule endoscopy and traditional colonoscopy tool spaces. This is because some doctors might choose BioCam's methodologies over extant products, meaning it's worth examining the larger colonoscopy tool market as well as the smaller, specific, capsule endoscopy market. In both cases, the markets are quite large.
 
-The colonoscopy devices market had an estimated value of $1.37 Billion in 2021, and is expected to grow to about $2.14 Billion by 2030. 
+The colonoscopy devices market had an estimated value of $2.1 Billion in 2023, and is expected to grow to about $2.14 Billion by 2030. 
+
+The capsule endoscopy market, albeit smaller, is still valued at approximately $482 Million in 2022, and is expected to grow at a compounded annual growth rate of about 10% through 2030.
 
 ![capsule endoscopy market](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/capsule_endoscopy.png)
 
 *[Source www.grandviewresearch.com](https://www.grandviewresearch.com/industry-analysis/capsule-endoscopes-market#:~:text=b.-,The%20global%20capsule%20endoscopy%20market%20size%20was%20estimated%20at%20USD,USD%20537.1%20million%20in%202022.)*
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+### Why are BioCam's products different? 
+
+BioCam has developed proprietary hardware and software that has several key differences from its direct competitors and incumbent colonoscope manufacturers.
+
+*3 Key Hardware Advantages*
+
+- BioCam's capsule will be able to use infrared light to collect information about the GI tract that is not available by only using traditional visible light sources.
+- The architecture of BioCam's capsule allows for further development of features related to detection and treatment of GI illness. One potential use case would be the targeted delivery of medications.
+- Design considerations (like battery life) have been taken to allow the entire GI tract to be observed. 
+
+*3 Key Software Advantages*
+
+- AI Based Image Creation: Resolution is 4x better than competitors
+- AI Based Image Analysis: AI based image analysis can give doctors "real-time determination of potential threats". 
+- Mobile Application: - sync device to phone, prep work, no additional equipment needed.
+
+
     - no belt required to track imaging, you can do it from your phone
     - means clients do not have to buy the recording devices, and they can sell 1 type of capsule,
     instead of 1 capsule per specific disease they are looking for (eg. grohns pill vs generic pill)
@@ -76,7 +93,7 @@ The colonoscopy devices market had an estimated value of $1.37 Billion in 2021, 
 
 ## Landscape
 
-* What field is the company in? BioTech/Medical Devices: Capsule Endoscopy
+### What field is the company in? *BioTech/Medical Devices: Capsule Endoscopy*
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
     - Increased overall image quality
@@ -97,7 +114,7 @@ competes with traditional endoscopic procedures.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
     - The principal competitors are publicly listed, therefore they measure success mostly by 
-    stock price. 
+    stock price.
 
 * How is your company performing relative to competitors in the same field?
     - Compnay has not commercialized yet, so it's not technically on the playing field yet.
@@ -149,3 +166,9 @@ competes with traditional endoscopic procedures.
 * Anita Kijanka [Health Tech of the Week: Biocam – Smart Endoscopic Capsule](https://anitakijanka.com/healthtech/health-tech-of-the-week-biocam-smart-endoscopic-capsule/)
 
 * Grandview Research [Capsule Endoscopy Market Size, Share & Trends Analysis Report By Application (OGIB, Crohn’s Disease, Small Intestine Tumor), By End-use (Hospitals, ASCs/Clinics), By Product, By Region, And Segment Forecasts, 2023 - 2030](https://www.grandviewresearch.com/industry-analysis/capsule-endoscopes-market#:~:text=b.-,The%20global%20capsule%20endoscopy%20market%20size%20was%20estimated%20at%20USD,USD%20537.1%20million%20in%202022.)
+
+* BeKey.io [Digital Health Interviews: Amelia Okulewicz, “BioCam” — Capsule Endoscopy and Machine Learning to Find Pathologies](https://bekey.io/blog/digital-health-interviews-amelia-okulewicz-biocam-capsule-endoscopy-machine-learning)
+
+* Global Market Insights [Colonoscopy Devices Market - By Product Type (Colonoscope, Visualization Systems), Application (Colorectal Cancer, Lynch Syndrome, Ulcerative Colitis, Crohns Disease), End-use (Hospitals, Ambulatory Surgical Centers) – Global Forecast, 2024 – 2032](https://www.gminsights.com/industry-analysis/colonoscopy-devices-market)
+
+* NIH: National Library of Medicine [Kvasir-Capsule, a video capsule endoscopy dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8160146/)
