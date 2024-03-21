@@ -6,14 +6,14 @@
 
 * When was the company incorporated? 2019
 
-* Who are the founders of the company? Maciej Wysocki, Marek Langner, Robert Stachurski
-!(https://assets-global.website-files.com/6295fa8a5007e71d9f9cde37/62cd517d3e39a867b3ef8a0f_27_prof_a-1-1024x1024.jpg)
+* Who are the founders of the company? Maciej Wysocki, Robert Stachurski, Prof. Marek Langner, ENG. DSC.
 
 * How did the idea for the company (or project) come about? 
 > The last World Cancer Statistics showed that colorectal cancer has become the deadliest cancer in men aged 20–49 years.
 > More than 71% of all cancers of the digestive system are diagnosed in the last 2 stages of development, when treatment is no longer possible and that simple means a death sentence. This all leads to our mission behind the BioCam.
 
 * How is the company funded? How much funding have they received?
+| 
 > In 2020, the LT Capital fund invested in us in the amount of €250,000 in the pre-seed round.
 > In 2021, we had a small bridge round with a private investor for €100,000 and with a well-known entrepreneur and business angel, Dawid Urban, who invested €440,000 in us. Dawid Urban’s investment was used as our own contribution to the implementation of the grant received from the National Center for Research and Development for adapting our technology to completely remote research, including in pandemic conditions. The grant is worth over €1.2 million.
 Just a few months ago, we received €440,000 in a seed round from Level2 Ventures.
@@ -27,7 +27,6 @@ Just a few months ago, we received €440,000 in a seed round from Level2 Ventur
 > Our business model is technology licensing to corporations from the medical devices, pharmaceutical, consumer electronics, and insurance industry. This allows us to use their sales, distribution and marketing channels as well as brand awareness.
 
 However, we do not close ourselves to large distribution contracts with a network of clinics and medical facilities.
->
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
     - no belt required to track imaging, you can do it from your phone
@@ -41,11 +40,16 @@ However, we do not close ourselves to large distribution contracts with a networ
 * What field is the company in? BioTech/Medical Devices: Capsule Endoscopy
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-    - Increased image quality
-    - Evidence showing CE is better than traditional imaging techniques
+    - Increased overall image quality
+    - 360 degree imaging vs. end-facing cameras using illumination
+    - The ability for capsules to transmit imaging data wirelessly
+    - Disposable capsules vs. capsules that must be retrieved from stool
 
 * What are the other major companies in this field?
-- Medtronic, PillCam
+    - [Pillcam](https://www.medtronic.com/covidien/en-us/products/capsule-endoscopy.html) by Medtronic
+    - [CapsoVision](https://capsovision.com/capsocam-plus/) by CapsoCam
+    - [ENDOCAPSULE](https://medical.olympusamerica.com/procedure/capsule-endoscopy) by Olympus
+    - [MiroCam](https://www.intromedicamerica.com/) by IntroMedic
 ## Results
 
 * What has been the business impact of this company so far?
@@ -63,6 +67,7 @@ competes with traditional endoscopic procedures.
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
   - Improving on how you can move the camera (i.e. improving upon magnetic manipulation)
+  - 
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -95,3 +100,7 @@ competes with traditional endoscopic procedures.
 * Strategy Market Research [Colonoscopy Devices Market By Component](https://www.strategicmarketresearch.com/market-report/colonoscopy-devices-market)
 
 * USPTO: Trademarks [Biocam Application #98379993](https://uspto.report/TM/98379993)
+
+* NIH: National Library of Medicine [Development and Application of Magnetically Controlled Capsule Endoscopy in Detecting Gastric Lesions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8739542/)
+
+* MDPI (Basel, Switzerland)  [Capsule Endoscopy: Pitfalls and Approaches to Overcome](https://www.mdpi.com/2075-4418/11/10/1765)
