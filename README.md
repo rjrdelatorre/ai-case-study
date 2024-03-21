@@ -6,7 +6,7 @@
 
 **Year of Incorporation**  2019
 
-**Company Founders**
+### Company Founders
 
 | Name | Title | LinkedIn |
 | :---- | :--- | :----------- | 
@@ -15,15 +15,16 @@
 | Jakub Niemczuk | *Co-Founder/Senior Electronics Specialist* | [![LinkedIn](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/linkedin_icon.svg)](https://www.linkedin.com/in/jakub-niemczuk-33b697168/) |
 | Prof. Marek Langner, ENG. DSC. | *Co-Founder/Mentor* |  |
 
-**How did the idea for BioCam come about?**
+### How did the idea for BioCam come about?
 
-The founding team has experience with MedTech startups. They were working on a way to transmit physiological information from freedivers at different depths without wearing any equipment when one of the founders, Prof. Marek Langner, recommended modifying existing endoscopic capsules for the purpose. This lead to the founding team analyzing the endoscopic capsule market, and deciding the space was ripe for disruption.
+The founding team has experience with MedTech startups. They were working on a way to transmit physiological information from freedivers at different depths without wearing any equipment. It was during this project that one of the founders, Prof. Marek Langner, recommended modifying existing endoscopic capsules for the purpose. This lead to the founding team analyzing the endoscopic capsule market, and deciding the space was ripe for disruption.
 
 > Seeing how expensive and niche this medical sector is, we decided it was worth changing and popularizing the entire technology of endoscopic capsules, relying on cheaper production costs and artificial intelligence algorithms for image analysis. Our key mission is to be a minimally invasive alternative for gastrointestinal screening tests. The basic social problem is that we are tested too late and too rarely, and most gastrointestinal cancers are diagnosed in the last stages of development, which precludes conventional treatment and means a death sentence. People avoid traditional endoscopic examinations due to panic fear, shame, and lack of education about the importance of screening tests
+
 *Maciej Wysocki from [article](https://anitakijanka.com/healthtech/health-tech-of-the-week-biocam-smart-endoscopic-capsule/)*
 
 
-**BioCam's Funding: ~ € 2,430,000 (~$ 2,639,830.50)**
+### BioCam's Funding: ~ € 2,430,000 (~$ 2,639,830.50)
  
 | Date | Investor | Round | Amount |
 | ---- | -------- | ----- | ------ |
@@ -33,19 +34,33 @@ The founding team has experience with MedTech startups. They were working on a w
 | Apr 2021 | Marcin Grabski | Bridge | €100,000 |
 | May 2020 | LT Capital | Pre-Seed | €250,000 |
 
-> In 2020, the LT Capital fund invested in us in the amount of €250,000 in the pre-seed round.
-> In 2021, we had a small bridge round with a private investor for €100,000 and with a well-known entrepreneur and business angel, Dawid Urban, who invested €440,000 in us. Dawid Urban’s investment was used as our own contribution to the implementation of the grant received from the National Center for Research and Development for adapting our technology to completely remote research, including in pandemic conditions. The grant is worth over €1.2 million.
-Just a few months ago, we received €440,000 in a seed round from Level2 Ventures.
-
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+### What specific problem is the company or project trying to solve?
+
+BioCam wants to use their capsule endoscopy technology and software platform to make gastrointestinal observation safer, less invasive, less expensive, and more effective in diagnosing GI disease. 
+
 > Our ultimate ambition is to deliver a new endoscopic capsule-based system for gastrointestinal observation and diagnosis of abnormalities and diseases that is safe and noninvasive, capable of registering/capturing the whole gastrointestinal tract, that can be easily used by patients at home.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+### Intended Customers
+
+BioCam wants their products to be used by doctors and veterinarians to replace or supplement traditional GI observation and imaging techniques (e.g. colonoscopy devices). They plan on getting their products into the hands of physicians and veterinarians through licensing agreements with strategic partners, then leveraging the distribution and marketing infrastructure of those partners. 
+
 > Our business model is technology licensing to corporations from the medical devices, pharmaceutical, consumer electronics, and insurance industry. This allows us to use their sales, distribution and marketing channels as well as brand awareness.
 
-However, we do not close ourselves to large distribution contracts with a network of clinics and medical facilities.
+> However, we do not close ourselves to large distribution contracts with a network of clinics and medical facilities.
+
+*  Maciej Wysocki - [source article](https://ain.capital/2023/08/01/startup-of-the-day-polish-medtech-biocam/)
+
+### Market Size for Traditional Colonoscopy Tools and Capsule Endoscopy
+
+BioCam will be a competitor in both the capsule endoscopy and traditional colonoscopy tool spaces. This is because some doctors might choose BioCam's methodologies over extant products, meaning it's worth examining the larger colonoscopy tool market as well as the smaller, specific, capsule endoscopy market. In both cases, the markets are quite large.
+
+The colonoscopy devices market had an estimated value of $1.37 Billion in 2021, and is expected to grow to about $2.14 Billion by 2030. 
+
+![capsule endoscopy market](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/capsule_endoscopy.png)
+
+*[Source www.grandviewresearch.com](https://www.grandviewresearch.com/industry-analysis/capsule-endoscopes-market#:~:text=b.-,The%20global%20capsule%20endoscopy%20market%20size%20was%20estimated%20at%20USD,USD%20537.1%20million%20in%202022.)*
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
     - no belt required to track imaging, you can do it from your phone
@@ -132,3 +147,5 @@ competes with traditional endoscopic procedures.
 * IT Key Media [Biocam Seeks Out EUR 1M of Investment to Revolutionize Endoscopy](https://itkey.media/biocam-seeks-out-eur-1m-of-investment-to-revolutionize-endoscopy/)
 
 * Anita Kijanka [Health Tech of the Week: Biocam – Smart Endoscopic Capsule](https://anitakijanka.com/healthtech/health-tech-of-the-week-biocam-smart-endoscopic-capsule/)
+
+* Grandview Research [Capsule Endoscopy Market Size, Share & Trends Analysis Report By Application (OGIB, Crohn’s Disease, Small Intestine Tumor), By End-use (Hospitals, ASCs/Clinics), By Product, By Region, And Segment Forecasts, 2023 - 2030](https://www.grandviewresearch.com/industry-analysis/capsule-endoscopes-market#:~:text=b.-,The%20global%20capsule%20endoscopy%20market%20size%20was%20estimated%20at%20USD,USD%20537.1%20million%20in%202022.)
