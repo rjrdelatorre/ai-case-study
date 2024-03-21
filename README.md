@@ -7,6 +7,7 @@
 * When was the company incorporated? 2019
 
 * Who are the founders of the company? Maciej Wysocki, Marek Langner, Robert Stachurski
+!(https://assets-global.website-files.com/6295fa8a5007e71d9f9cde37/62cd517d3e39a867b3ef8a0f_27_prof_a-1-1024x1024.jpg)
 
 * How did the idea for the company (or project) come about? 
 > The last World Cancer Statistics showed that colorectal cancer has become the deadliest cancer in men aged 20–49 years.
