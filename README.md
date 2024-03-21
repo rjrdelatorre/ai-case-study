@@ -2,18 +2,24 @@
 
 ## Overview and Origin
 
-* Name of company: BioCam
+**Name of Company**  BioCam
 
-* When was the company incorporated? 2019
+**Year of Incorporation**  2019
 
-* Who are the founders of the company? Maciej Wysocki, Robert Stachurski, Prof. Marek Langner, ENG. DSC.
+**Company Founders**
+
+| Name | Title | LinkedIn |
+| :---- | :--- | :----------- | 
+| Maciej Wysocki | *Co-Founder/CEO* | [![LinkedIn](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/linkedin_icon.svg)](https://www.linkedin.com/in/maciej-wysocki-54849095/) |
+| Robert Stachurski | *Co-Founder/Advisor* | [![LinkedIn](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/linkedin_icon.svg)](https://www.linkedin.com/in/robertstachurski/) |
+| Prof. Marek Langner, ENG. DSC. | *Co-Founder/Mentor* |  |
 
 * How did the idea for the company (or project) come about? 
 > The last World Cancer Statistics showed that colorectal cancer has become the deadliest cancer in men aged 20–49 years.
 > More than 71% of all cancers of the digestive system are diagnosed in the last 2 stages of development, when treatment is no longer possible and that simple means a death sentence. This all leads to our mission behind the BioCam.
 
 * How is the company funded? How much funding have they received?
-| 
+ 
 > In 2020, the LT Capital fund invested in us in the amount of €250,000 in the pre-seed round.
 > In 2021, we had a small bridge round with a private investor for €100,000 and with a well-known entrepreneur and business angel, Dawid Urban, who invested €440,000 in us. Dawid Urban’s investment was used as our own contribution to the implementation of the grant received from the National Center for Research and Development for adapting our technology to completely remote research, including in pandemic conditions. The grant is worth over €1.2 million.
 Just a few months ago, we received €440,000 in a seed round from Level2 Ventures.
@@ -32,6 +38,8 @@ However, we do not close ourselves to large distribution contracts with a networ
     - no belt required to track imaging, you can do it from your phone
     - means clients do not have to buy the recording devices, and they can sell 1 type of capsule,
     instead of 1 capsule per specific disease they are looking for (eg. grohns pill vs generic pill)
+    - Not using 3D imaging via graphics card. Instead, fusing computer vision for "scene reconstruction"
+    > ...we have been working on pioneering algorithms for augmentation and morphing – generating images and fusing elements into them based on real data. It is a form of synthetic data, not generated in 3D by graphics cards as in competing solutions, but based on fragments of real images, which then translates into a much higher efficiency of machine learning and interpolation of classes with pathological changes.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
