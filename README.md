@@ -1,4 +1,4 @@
-# TITLE
+# BioCam: Using AI to Advance Capsule Endoscopy
 
 ## Overview and Origin
 
@@ -29,30 +29,39 @@ However, we do not close ourselves to large distribution contracts with a networ
 >
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+    - no belt required to track imaging, you can do it from your phone
+    - means clients do not have to buy the recording devices, and they can sell 1 type of capsule,
+    instead of 1 capsule per specific disease they are looking for (eg. grohns pill vs generic pill)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 ## Landscape
 
-* What field is the company in? BioTech, Medical Devices, Software, Diagnostics
+* What field is the company in? BioTech/Medical Devices: Capsule Endoscopy
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
+    - Increased image quality
+    - Evidence showing CE is better than traditional imaging techniques
 
 * What are the other major companies in this field?
-
+- Medtronic, PillCam
 ## Results
 
 * What has been the business impact of this company so far?
-Hard to say financially, but in terms of product impact, they already have something that works.
+Proving that non-invasive, in-home, endoscopy is viable will open a market that
+competes with traditional endoscopic procedures.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+    - The principal competitors are publicly listed, therefore they measure success mostly by 
+    stock price. 
 
 * How is your company performing relative to competitors in the same field?
+    - Compnay has not commercialized yet, so it's not technically on the playing field yet.
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+  - Improving on how you can move the camera (i.e. improving upon magnetic manipulation)
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -78,3 +87,10 @@ Hard to say financially, but in terms of product impact, they already have somet
 
 * OFFICE of the DIRECTOR of NATIONAL INTELLIGENCE [The Future of Biotech](https://www.dni.gov/files/images/globalTrends/GT2040/NIC-2021-02494--Future-of-Biotech--Unsourced--14May21.pdf)
 
+* Level2 Ventures [BioCam has raised PLN 2M from Level2 Ventures for further development of its AI-powered endoscopic capsule](https://level2.vc/biocam-has-raised-pln-2m-from-level2-ventures-for-further-development-of-its-ai-powered-endoscopic-capsule/)
+
+* Medtronic [PillCam™ SB 3 Capsule Endoscopy System](https://www.medtronic.com/covidien/en-us/products/capsule-endoscopy/pillcam-sb3-system.html)
+
+* Strategy Market Research [Colonoscopy Devices Market By Component](https://www.strategicmarketresearch.com/market-report/colonoscopy-devices-market)
+
+* USPTO: Trademarks [Biocam Application #98379993](https://uspto.report/TM/98379993)
