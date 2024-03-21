@@ -124,15 +124,23 @@ A sector with this level of economic and medical significance will always have b
 
 Although the company has not gone to market yet, their ability to raise the necessary funds for R&D, and their acceptance into Google's "Growth Academy: AI for Health" program, validate the assumptions that there is a need for AI-driven non-invasive, in-home, endoscopy. This validation will certainly affect the near-term plans of all incumbent firms.
 
-### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+### What are some of the core metrics that companies in this field use to measure success?
 
-BioCam has not yet started its commercialization, therefore it's not a fair assessment to compare BioCam's metrics with those of the incumben firms. Many of the competitors are publicly listed, so they are highly scrutinized for stock valuations and other economic factors. Also, the competitors lack an AI element, and don't have to measure the accuracy of the model, cost of R&D, etc.
+Many of the competitors are publicly listed, so they are highly scrutinized for stock valuations, sales growth, cost management, and other economic factors. On the technical side, they also track resolution of images produced, how much of the GI tract can be imaged and time between imaging and medical analysis. 
+
+### How is your company performing based on these metrics?
+
+BioCam has not yet started its commercialization, therefore it's not a fair assessment to compare BioCam's sales metrics with those of the incumbent firms. It is anticipated that BioCam will cost significantly less that current capsule endoscopy treaments, which should positively impact sales.
+
+However, so far BioCam is demonstrating superiority when it comes to technical aspects like image resolution, % of the GI tract imaged (100% for BioCam), and time between imaging and medical analysis. The competitors lack an AI element, and don't have to measure the accuracy of the model, cost of R&D, etc., which will be markers that are closely tracked by BioCam.
 
 BioCam has currently dedicated itself to at least 200 patient volunteer triails, and is avertising a 97% accuracy of it's models identifying problematic images. The next major milestone will be FDA and clinical approval by the relevant authorities in the US and Europe. 
 
 ### How is your company performing relative to competitors in the same field?
 
-Although there are not really any commercial measurements to assess, it is highlyl impressive that BioCam has demonstrated the ability to integrate AI into its software at a reliable enough level to conduct clinical trials and seek FDA approval. Already this sets it apart from the competition, and sets the company up to redefine the capsule endoscopy space.
+Although there are not really any commercial measurements to assess, it is highlyl impressive that BioCam has demonstrated the ability to integrate AI into its software at a reliable enough level to conduct clinical trials and seek FDA approval. Already this sets it apart from the competition, and sets the company up to redefine the capsule endoscopy space. As noted above, BioCam is outperforming the competition by key technical measures.
+
+The competitors are likely concerned by BioCam's technical superiority and lower price.
 
 ## Recommendations
 
