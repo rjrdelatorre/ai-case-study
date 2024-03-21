@@ -15,11 +15,12 @@
 | Jakub Niemczuk | *Co-Founder/Senior Electronics Specialist* | [![LinkedIn](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/linkedin_icon.svg)](https://www.linkedin.com/in/jakub-niemczuk-33b697168/) |
 | Prof. Marek Langner, ENG. DSC. | *Co-Founder/Mentor* |  |
 
-* How did the idea for the company (or project) come about? 
+**How did the idea for the company (or project) come about?** 
 > The last World Cancer Statistics showed that colorectal cancer has become the deadliest cancer in men aged 20–49 years.
 > More than 71% of all cancers of the digestive system are diagnosed in the last 2 stages of development, when treatment is no longer possible and that simple means a death sentence. This all leads to our mission behind the BioCam.
 
-* How is the company funded? How much funding have they received?
+
+** BioCam's Funding: ~ € 2,430,000 (~$ 2,639,830.50)
  
 | Date | Investor | Round | Amount |
 | ---- | -------- | ----- | ------ |
