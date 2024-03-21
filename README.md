@@ -78,54 +78,89 @@ BioCam has developed proprietary hardware and software that has several key diff
 *3 Key Software Advantages*
 
 - AI Based Image Creation: Instead of using 3D cameras that generate images from a graphics card, AI helps fuse together images as they come in from the capsule. The resulting "scene reconstruction" is robust and clear (4x higher resolution than competitors), allowing for better diagnoses.
-- AI Based Image Analysis: Using AI for image analysis gives doctors "real-time determination of potential threats". Competitors can require several hours between an imaging procedure and results from the doctor, whereas BioCam's powerful AI software cuts the time down by as much as 90%. 
+- AI Based Image Analysis: Using AI for image analysis gives doctors "real-time determination of potential threats". Competitors can require several hours between an imaging procedure and results from the doctor, whereas BioCam's powerful AI software cuts the time down by as much as 90%. The implementation of AI represents, by far, the biggest competitive advantage for BioCam.
 - Mobile Application: BioCam capsules can be synced to a patient's phone, removing the need for another data receiver device (like a tradtional belt). This also allows the patient to undergo the scan in the comfort of their home.
 
 > ...we have been working on pioneering algorithms for augmentation and morphing – generating images and fusing elements into them based on real data. It is a form of synthetic data, not generated in 3D by graphics cards as in competing solutions, but based on fragments of real images, which then translates into a much higher efficiency of machine learning and interpolation of classes with pathological changes.
 
 *Maciej Wysocki - [source article](https://ain.capital/2023/08/01/startup-of-the-day-polish-medtech-biocam/)*
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+### Which technologies are they currently using, and how are they implementing them?
+
+BioCam makes specific mention of using machine learning, specifically neural networks, to identify "images with potential pathologies". They used data from Kvasir-Capsule in order to start training their model, and acknowledge that there is still a great deal of work to do in order to fully train their models. 
+
+NBI (Narrow Band Imaging) technology allows BioCam capsule to create contrast between different types of tissue or structures within the body. By filtering and detecting specific light wavelengths, the resulting images can, for example, show thin capillaries in the intestines as brown and highlight blue the thicker blood vessels. This additional contrast helps the accuracy of any observations and diagnoses. 
 
 ## Landscape
 
-### What field is the company in? *BioTech/Medical Devices: Capsule Endoscopy*
+### What field is the company in?
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-    - Increased overall image quality
-    - 360 degree imaging vs. end-facing cameras using illumination
-    - The ability for capsules to transmit imaging data wirelessly
-    - Disposable capsules vs. capsules that must be retrieved from stool
+It's possible to label what BioCam is doing under Medical Devices, Medical Software, BioTech, etc. The most specific classification would be Capsule Endoscopy. 
 
-* What are the other major companies in this field?
-    - [Pillcam](https://www.medtronic.com/covidien/en-us/products/capsule-endoscopy.html) by Medtronic
-    - [CapsoVision](https://capsovision.com/capsocam-plus/) by CapsoCam
-    - [ENDOCAPSULE](https://medical.olympusamerica.com/procedure/capsule-endoscopy) by Olympus
-    - [MiroCam](https://www.intromedicamerica.com/) by IntroMedic
+### What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+
+The trends in capsule endoscopy and colonoscopy devices have been driven by major increases in demand. Sadly, colorectal cancer, Crohn's disease, and other gastrointestinal illnesses have been on the rise worldwide. This fact, in combination with advances in technology across other sectors (particularly in optics and software), have lead to the following examples of innovation within capsule endoscopy:
+
+- Increased overall image quality from higher resolution cameras
+- 360 degree imaging
+- The ability for capsules to transmit imaging data wirelessly (and now to the cloud)
+- Disposable capsules vs. capsules that must be retrieved from stool
+
+These advances have lead to overall improvements in patient comfort and diagnostic accuracy.
+
+### What are the other major companies in this field?
+
+A sector with this level of economic and medical significance will always have big players. Here are the top incumbent firms/products in the capsule endoscopy space.
+
+- [Pillcam](https://www.medtronic.com/covidien/en-us/products/capsule-endoscopy.html) by Medtronic
+- [CapsoVision](https://capsovision.com/capsocam-plus/) by CapsoCam
+- [ENDOCAPSULE](https://medical.olympusamerica.com/procedure/capsule-endoscopy) by Olympus
+- [MiroCam](https://www.intromedicamerica.com/) by IntroMedic
+
+
 ## Results
 
-* What has been the business impact of this company so far?
-Proving that non-invasive, in-home, endoscopy is viable will open a market that
-competes with traditional endoscopic procedures.
+### What has been the business impact of this company so far?
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-    - The principal competitors are publicly listed, therefore they measure success mostly by 
-    stock price.
+Although the company has not gone to market yet, their ability to raise the necessary funds for R&D, and their acceptance into Google's "Growth Academy: AI for Health" program, validate the assumptions that there is a need for AI-driven non-invasive, in-home, endoscopy. This validation will certainly affect the near-term plans of all incumbent firms.
 
-* How is your company performing relative to competitors in the same field?
-    - Compnay has not commercialized yet, so it's not technically on the playing field yet.
+### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+
+BioCam has not yet started its commercialization, therefore it's not a fair assessment to compare BioCam's metrics with those of the incumben firms. Many of the competitors are publicly listed, so they are highly scrutinized for stock valuations and other economic factors. Also, the competitors lack an AI element, and don't have to measure the accuracy of the model, cost of R&D, etc.
+
+BioCam has currently dedicated itself to at least 200 patient volunteer triails, and is avertising a 97% accuracy of it's models identifying problematic images. The next major milestone will be FDA and clinical approval by the relevant authorities in the US and Europe. 
+
+### How is your company performing relative to competitors in the same field?
+
+Although there are not really any commercial measurements to assess, it is highlyl impressive that BioCam has demonstrated the ability to integrate AI into its software at a reliable enough level to conduct clinical trials and seek FDA approval. Already this sets it apart from the competition, and sets the company up to redefine the capsule endoscopy space.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-  - Improving on how you can move the camera (i.e. improving upon magnetic manipulation)
-  - 
+### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company?
+If BioCam's AI driven diagnostic software is as accurate as they expect it to be, I would advise the company to do the following:
 
-* What technologies would this additional product or service utilize?
+- Teach the AI model to include detection of intra-abdominal abscesses and potential obstruction causing adhesions for patients following abdominal surgery.
+- Create an API that would allow device manufacturers/developers to run their images through the diagnostic tool, alerting doctors to potentially life threatening abscesses or adhesions that could have been missed.
+- Improve the existing optics and image construction technology for tools exploring the areas around the intestines, just as they have for within the intestines.
 
-* Why are these technologies appropriate for your solution?
+### Why do you think that offering this product or service would benefit the company?
+
+These changes would give BioCam access to an entirely new market that could be just as ready for disruption as capsule endoscopy. Laproscopes are likely subject to similar limitations that colonoscopy tools suffer from. Also, these changes would leverage the diagnostic advances made by BioCam and not require creating a brand new set of diagnostic mechanisms from scratch.
+
+Creating the API would allow BioCam to monetize their software products without necessarily needing to go down the hardware route. 
+
+In both cases, there would be potentially massive benefits to patient health and overall care for post-op patients.
+
+### What technologies would this additional product or service utilize?
+
+These additional services would add to the existing neural network driven tools already being produced by BioCam. There will be much more data available to BioCam for training the model in additional diagnoses.
+
+The API would also leverage the existing software architecture being used by BioCam. 
+
+### Why are these technologies appropriate for your solution?
+
+These technologies are appropriate, because they are already being used by the company. Additionally, the results of these changes would be in line with the company's objectives of providing more comfortable, affordable, accurate, and safe care for patients. 
 
 ## Addendum
 ### Sources
@@ -168,3 +203,5 @@ competes with traditional endoscopic procedures.
 * Global Market Insights [Colonoscopy Devices Market - By Product Type (Colonoscope, Visualization Systems), Application (Colorectal Cancer, Lynch Syndrome, Ulcerative Colitis, Crohns Disease), End-use (Hospitals, Ambulatory Surgical Centers) – Global Forecast, 2024 – 2032](https://www.gminsights.com/industry-analysis/colonoscopy-devices-market)
 
 * NIH: National Library of Medicine [Kvasir-Capsule, a video capsule endoscopy dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8160146/)
+
+* NIH: National Library of Medicine [Narrow Band Imaging: Technology Basis and Research and Development History](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4676658/)
