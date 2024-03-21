@@ -15,12 +15,15 @@
 | Jakub Niemczuk | *Co-Founder/Senior Electronics Specialist* | [![LinkedIn](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/linkedin_icon.svg)](https://www.linkedin.com/in/jakub-niemczuk-33b697168/) |
 | Prof. Marek Langner, ENG. DSC. | *Co-Founder/Mentor* |  |
 
-**How did the idea for the company (or project) come about?** 
-> The last World Cancer Statistics showed that colorectal cancer has become the deadliest cancer in men aged 20–49 years.
-> More than 71% of all cancers of the digestive system are diagnosed in the last 2 stages of development, when treatment is no longer possible and that simple means a death sentence. This all leads to our mission behind the BioCam.
+**How did the idea for BioCam come about?**
+
+The founding team has experience with MedTech startups. They were working on a way to transmit physiological information from freedivers at different depths without wearing any equipment when one of the founders, Prof. Marek Langner, recommended modifying existing endoscopic capsules for the purpose. This lead to the founding team analyzing the endoscopic capsule market, and deciding the space was ripe for disruption.
+
+> Seeing how expensive and niche this medical sector is, we decided it was worth changing and popularizing the entire technology of endoscopic capsules, relying on cheaper production costs and artificial intelligence algorithms for image analysis. Our key mission is to be a minimally invasive alternative for gastrointestinal screening tests. The basic social problem is that we are tested too late and too rarely, and most gastrointestinal cancers are diagnosed in the last stages of development, which precludes conventional treatment and means a death sentence. People avoid traditional endoscopic examinations due to panic fear, shame, and lack of education about the importance of screening tests
+*Maciej Wysocki from [article](https://anitakijanka.com/healthtech/health-tech-of-the-week-biocam-smart-endoscopic-capsule/)*
 
 
-** BioCam's Funding: ~ € 2,430,000 (~$ 2,639,830.50)
+**BioCam's Funding: ~ € 2,430,000 (~$ 2,639,830.50)**
  
 | Date | Investor | Round | Amount |
 | ---- | -------- | ----- | ------ |
@@ -126,4 +129,6 @@ competes with traditional endoscopic procedures.
 
 * MDPI (Basel, Switzerland)  [Capsule Endoscopy: Pitfalls and Approaches to Overcome](https://www.mdpi.com/2075-4418/11/10/1765)
 
-* IT Key Media (Biocam Seeks Out EUR 1M of Investment to Revolutionize Endoscopy)[https://itkey.media/biocam-seeks-out-eur-1m-of-investment-to-revolutionize-endoscopy/]
+* IT Key Media [Biocam Seeks Out EUR 1M of Investment to Revolutionize Endoscopy](https://itkey.media/biocam-seeks-out-eur-1m-of-investment-to-revolutionize-endoscopy/)
+
+* Anita Kijanka [Health Tech of the Week: Biocam – Smart Endoscopic Capsule](https://anitakijanka.com/healthtech/health-tech-of-the-week-biocam-smart-endoscopic-capsule/)
