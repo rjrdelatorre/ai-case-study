@@ -12,6 +12,7 @@
 | :---- | :--- | :----------- | 
 | Maciej Wysocki | *Co-Founder/CEO* | [![LinkedIn](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/linkedin_icon.svg)](https://www.linkedin.com/in/maciej-wysocki-54849095/) |
 | Robert Stachurski | *Co-Founder/Advisor* | [![LinkedIn](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/linkedin_icon.svg)](https://www.linkedin.com/in/robertstachurski/) |
+| Jakub Niemczuk | *Co-Founder/Senior Electronics Specialist* | [![LinkedIn](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/linkedin_icon.svg)](https://www.linkedin.com/in/jakub-niemczuk-33b697168/) |
 | Prof. Marek Langner, ENG. DSC. | *Co-Founder/Mentor* |  |
 
 * How did the idea for the company (or project) come about? 
@@ -20,6 +21,14 @@
 
 * How is the company funded? How much funding have they received?
  
+| Date | Investor | Round | Amount |
+| ---- | -------- | ----- | ------ |
+| May 2023 | Level2 Ventures | Seed | €440,000 |
+| Dec 2021 | Dawid Ubran | Contribution to Grant | €440,000 |
+| Jun 2021 | National Center for Research & Development (Poland) | Grant | €1.2 million |
+| Apr 2021 | Marcin Grabski | Bridge | €100,000 |
+| May 2020 | LT Capital | Pre-Seed | €250,000 |
+
 > In 2020, the LT Capital fund invested in us in the amount of €250,000 in the pre-seed round.
 > In 2021, we had a small bridge round with a private investor for €100,000 and with a well-known entrepreneur and business angel, Dawid Urban, who invested €440,000 in us. Dawid Urban’s investment was used as our own contribution to the implementation of the grant received from the National Center for Research and Development for adapting our technology to completely remote research, including in pandemic conditions. The grant is worth over €1.2 million.
 Just a few months ago, we received €440,000 in a seed round from Level2 Ventures.
@@ -39,6 +48,9 @@ However, we do not close ourselves to large distribution contracts with a networ
     - means clients do not have to buy the recording devices, and they can sell 1 type of capsule,
     instead of 1 capsule per specific disease they are looking for (eg. grohns pill vs generic pill)
     - Not using 3D imaging via graphics card. Instead, fusing computer vision for "scene reconstruction"
+    - Cost is about PLN 1,000-1,200, which is half of current capsule endoscopy products in Poland, and on par with existing invasive diagnostics.
+    - Entire GI tract from esophagus to intestines.Can spot "neoplastic lesions, polyps, latent bleedings, ulcer diseases and Leśniewski and Crohn’s diseases", which do not require biopsies.
+
     > ...we have been working on pioneering algorithms for augmentation and morphing – generating images and fusing elements into them based on real data. It is a form of synthetic data, not generated in 3D by graphics cards as in competing solutions, but based on fragments of real images, which then translates into a much higher efficiency of machine learning and interpolation of classes with pathological changes.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
@@ -112,3 +124,5 @@ competes with traditional endoscopic procedures.
 * NIH: National Library of Medicine [Development and Application of Magnetically Controlled Capsule Endoscopy in Detecting Gastric Lesions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8739542/)
 
 * MDPI (Basel, Switzerland)  [Capsule Endoscopy: Pitfalls and Approaches to Overcome](https://www.mdpi.com/2075-4418/11/10/1765)
+
+* IT Key Media (Biocam Seeks Out EUR 1M of Investment to Revolutionize Endoscopy)[https://itkey.media/biocam-seeks-out-eur-1m-of-investment-to-revolutionize-endoscopy/]
