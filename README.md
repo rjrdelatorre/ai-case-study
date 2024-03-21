@@ -138,7 +138,7 @@ BioCam has currently dedicated itself to at least 200 patient volunteer triails,
 
 ### How is your company performing relative to competitors in the same field?
 
-Although there are not really any commercial measurements to assess, it is highlyl impressive that BioCam has demonstrated the ability to integrate AI into its software at a reliable enough level to conduct clinical trials and seek FDA approval. Already this sets it apart from the competition, and sets the company up to redefine the capsule endoscopy space. As noted above, BioCam is outperforming the competition by key technical measures.
+Although there are not really any commercial measurements to assess, it is highly impressive that BioCam has demonstrated the ability to integrate AI into its software at a reliable enough level to conduct clinical trials and seek FDA approval. Already this sets it apart from the competition, and sets the company up to redefine the capsule endoscopy space. As noted above, BioCam is outperforming the competition by key technical measures.
 
 The competitors are likely concerned by BioCam's technical superiority and lower price.
 
@@ -162,13 +162,13 @@ In both cases, there would be potentially massive benefits to patient health and
 
 ### What technologies would this additional product or service utilize?
 
-These additional services would add to the existing neural network driven tools already being produced by BioCam. There will be much more data available to BioCam for training the model in additional diagnoses.
+These additional services would add to the existing neural network driven tools already being produced by BioCam. There will be much more data available to BioCam for training the model in additional diagnoses once trials are completed and approvals are achieved.
 
 The API would also leverage the existing software architecture being used by BioCam. 
 
 ### Why are these technologies appropriate for your solution?
 
-These technologies are appropriate, because they are already being used by the company. Additionally, the results of these changes would be in line with the company's objectives of providing more comfortable, affordable, accurate, and safe care for patients. 
+These technologies are appropriate, because they are already being used by the company. There would be economies of scale if you consider the initial R&D as the input being economized for these new services. Additionally, the results of these changes would be in line with the company's objectives of providing more comfortable, affordable, accurate, and safe care for patients. 
 
 ## Addendum
 ### Sources
