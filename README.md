@@ -42,6 +42,8 @@ BioCam wants to use their capsule endoscopy technology and software platform to 
 
 > Our ultimate ambition is to deliver a new endoscopic capsule-based system for gastrointestinal observation and diagnosis of abnormalities and diseases that is safe and noninvasive, capable of registering/capturing the whole gastrointestinal tract, that can be easily used by patients at home.
 
+*Maciej Wysocki - [source article](https://ain.capital/2023/08/01/startup-of-the-day-polish-medtech-biocam/)*
+
 ### Intended Customers
 
 BioCam wants their products to be used by doctors and veterinarians to replace or supplement traditional GI observation and imaging techniques (e.g. colonoscopy devices). They plan on getting their products into the hands of physicians and veterinarians through licensing agreements with strategic partners, then leveraging the distribution and marketing infrastructure of those partners. 
@@ -49,7 +51,7 @@ BioCam wants their products to be used by doctors and veterinarians to replace o
 > Our business model is technology licensing to corporations from the medical devices, pharmaceutical, consumer electronics, and insurance industry. This allows us to use their sales, distribution and marketing channels as well as brand awareness.
 > However, we do not close ourselves to large distribution contracts with a network of clinics and medical facilities.
 
-*Maciej Wysocki - [source article](https://ain.capital/2023/08/01/startup-of-the-day-polish-medtech-biocam/)
+*Maciej Wysocki - [source article](https://ain.capital/2023/08/01/startup-of-the-day-polish-medtech-biocam/)*
 
 ### Market Size for Traditional Colonoscopy Tools and Capsule Endoscopy
 
@@ -75,19 +77,13 @@ BioCam has developed proprietary hardware and software that has several key diff
 
 *3 Key Software Advantages*
 
-- AI Based Image Creation: Resolution is 4x better than competitors
-- AI Based Image Analysis: AI based image analysis can give doctors "real-time determination of potential threats". 
-- Mobile Application: - sync device to phone, prep work, no additional equipment needed.
+- AI Based Image Creation: Instead of using 3D cameras that generate images from a graphics card, AI helps fuse together images as they come in from the capsule. The resulting "scene reconstruction" is robust and clear (4x higher resolution than competitors), allowing for better diagnoses.
+- AI Based Image Analysis: Using AI for image analysis gives doctors "real-time determination of potential threats". Competitors can require several hours between an imaging procedure and results from the doctor, whereas BioCam's powerful AI software cuts the time down by as much as 90%. 
+- Mobile Application: BioCam capsules can be synced to a patient's phone, removing the need for another data receiver device (like a tradtional belt). This also allows the patient to undergo the scan in the comfort of their home.
 
+> ...we have been working on pioneering algorithms for augmentation and morphing – generating images and fusing elements into them based on real data. It is a form of synthetic data, not generated in 3D by graphics cards as in competing solutions, but based on fragments of real images, which then translates into a much higher efficiency of machine learning and interpolation of classes with pathological changes.
 
-    - no belt required to track imaging, you can do it from your phone
-    - means clients do not have to buy the recording devices, and they can sell 1 type of capsule,
-    instead of 1 capsule per specific disease they are looking for (eg. grohns pill vs generic pill)
-    - Not using 3D imaging via graphics card. Instead, fusing computer vision for "scene reconstruction"
-    - Cost is about PLN 1,000-1,200, which is half of current capsule endoscopy products in Poland, and on par with existing invasive diagnostics.
-    - Entire GI tract from esophagus to intestines.Can spot "neoplastic lesions, polyps, latent bleedings, ulcer diseases and Leśniewski and Crohn’s diseases", which do not require biopsies.
-
-    > ...we have been working on pioneering algorithms for augmentation and morphing – generating images and fusing elements into them based on real data. It is a form of synthetic data, not generated in 3D by graphics cards as in competing solutions, but based on fragments of real images, which then translates into a much higher efficiency of machine learning and interpolation of classes with pathological changes.
+*Maciej Wysocki - [source article](https://ain.capital/2023/08/01/startup-of-the-day-polish-medtech-biocam/)*
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
