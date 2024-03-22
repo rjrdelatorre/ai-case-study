@@ -57,9 +57,9 @@ BioCam wants their products to be used by doctors and veterinarians to replace o
 
 BioCam will be a competitor in both the capsule endoscopy and traditional colonoscopy tool spaces. This is because some doctors might choose BioCam's methodologies over extant products, meaning it's worth examining the larger colonoscopy tool market as well as the smaller, specific, capsule endoscopy market. In both cases, the markets are quite large.
 
-The colonoscopy devices market had an estimated value of $2.1 Billion in 2023, and is expected to grow to about $2.14 Billion by 2030. 
+The colonoscopy devices market had an estimated value of $2.1 Billion in 2023, and is expected to grow at a compound annual growth rate of about 5.06% through 2030. 
 
-The capsule endoscopy market, albeit smaller, is still valued at approximately $482 Million in 2022, and is expected to grow at a compounded annual growth rate of about 10% through 2030.
+The capsule endoscopy market, albeit smaller, is still valued at approximately $482 Million in 2022, and is expected to grow at a compounded annual growth rate of about 9.6% through 2030.
 
 ![capsule endoscopy market](https://s3.us-west-1.amazonaws.com/rd2consulting.com/images/capsule_endoscopy.png)
 
@@ -126,19 +126,19 @@ Although the company has not gone to market yet, their ability to raise the nece
 
 ### What are some of the core metrics that companies in this field use to measure success?
 
-Many of the competitors are publicly listed, so they are highly scrutinized for stock valuations, sales growth, cost management, and other economic factors. On the technical side, they also track resolution of images produced, how much of the GI tract can be imaged and time between imaging and medical analysis. 
+Many of the competitors are publicly listed, so they are highly scrutinized for stock valuations, sales growth, cost management, and other economic factors. On the technical performance side, they also track resolution of images produced, how much of the GI tract can be imaged and time between imaging and medical analysis. 
 
 ### How is your company performing based on these metrics?
 
-BioCam has not yet started its commercialization, therefore it's not a fair assessment to compare BioCam's sales metrics with those of the incumbent firms. It is anticipated that BioCam will cost significantly less that current capsule endoscopy treaments, which should positively impact sales.
+BioCam has not yet started its commercialization, therefore it's not a fair assessment to compare BioCam's sales metrics with those of the incumbent firms. It is anticipated that BioCam will cost significantly less that current capsule endoscopy treaments, which should positively impact sales. BioCam's target price will be approximately PLN 1,000-1,200, which is similar to the tradtional invasive tecniques and about half of the price of other capsule endoscopy options.
 
-However, so far BioCam is demonstrating superiority when it comes to technical aspects like image resolution, % of the GI tract imaged (100% for BioCam), and time between imaging and medical analysis. The competitors lack an AI element, and don't have to measure the accuracy of the model, cost of R&D, etc., which will be markers that are closely tracked by BioCam.
+BioCam is demonstrating superiority when it comes to technical performance metrics like image resolution (4x better than the competition), % of the GI tract imaged (100% for BioCam), and time between imaging and medical analysis (approximately 90% less time than the competition). The competitors lack an AI element, and don't have to measure the accuracy of the model, cost of R&D, etc., which will be markers that are closely tracked by BioCam.
 
 BioCam has currently dedicated itself to at least 200 patient volunteer triails, and is avertising a 97% accuracy of it's models identifying problematic images. The next major milestone will be FDA and clinical approval by the relevant authorities in the US and Europe. 
 
 ### How is your company performing relative to competitors in the same field?
 
-Although there are not really any commercial measurements to assess, it is highly impressive that BioCam has demonstrated the ability to integrate AI into its software at a reliable enough level to conduct clinical trials and seek FDA approval. Already this sets it apart from the competition, and sets the company up to redefine the capsule endoscopy space. As noted above, BioCam is outperforming the competition by key technical measures.
+Again, there are no serious commercial metrics to compare yet, but BioCam is showing superiority in the technical performance metrics. It is highly impressive that BioCam has demonstrated the ability to integrate AI into its software at a reliable enough level to conduct clinical trials and seek FDA approval. Already this sets it apart from the competition, and sets the company up to redefine the capsule endoscopy space.
 
 The competitors are likely concerned by BioCam's technical superiority and lower price.
 
